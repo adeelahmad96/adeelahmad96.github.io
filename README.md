@@ -1,35 +1,36 @@
 # Adeel Ahmed
 
-Software Backend Developer | adeeldev1@gmail.com | [LinkedIn](https://www.linkedin.com/in/adeel-ahmed-6a3096180/) | [GitHub](https://github.com/johndoe)
+Islamabad, Pakistan  
+adeeldev1@gmail.com  
++923165371301  
+[LinkedIn](https://www.linkedin.com/in/adeel-ahmed-6a3096180)
 
 ---
 
 ## Summary
 
-Experienced software developer with a passion for building robust and scalable web applications. Skilled in front-end and back-end development, with expertise in JavaScript, Python, and SQL. Strong problem-solving abilities and a collaborative team player.
-
-## Skills
-
-- **Programming Languages**: JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React, Node.js, Express.js
-- **Database Management**: SQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Agile Methodologies**: Scrum, Kanban
+Experienced software engineer with five years of expertise in backend development, particularly in Node.js. Demonstrated track record in designing, building, and optimizing scalable server-side applications across diverse tech stacks. Proficient in crafting RESTful APIs, refining database designs, and implementing performance optimizations. Recognized for collaborative teamwork, strong interpersonal skills, and effective time management. Committed to continual learning, actively embracing new technologies, including DevOps practices, to deliver superior software solutions.
 
 ## Experience
 
-### Software Engineer | XYZ Tech (Jan 2020 - Present)
+### Back End Developer | JiBe ERP (Dec 2022 - Present)
+- Improving a Shipping ERP system, focusing on feature development and bug fixes.
+- Maintaining APIs with Node.js, TypeScript, SQL, MongoDB, and RabbitMQ for smooth data flow.
 
-- Developed and maintained web applications using React, Node.js, and MongoDB.
-- Collaborated with cross-functional teams to deliver high-quality software products.
-- Implemented responsive design principles to ensure optimal user experience across devices.
+### Back End Developer | Lessgo (Sep 2021 - Nov 2022)
+- Contributed to feature enhancements and performance optimizations for a social networking app.
+- Leveraged NestJS, TypeScript, Sendgrid, and MongoDB to implement improvements.
 
-### Junior Developer | ABC Solutions (Jun 2018 - Dec 2019)
-
-- Assisted in the development of RESTful APIs using Express.js and MongoDB.
-- Participated in code reviews and contributed to the improvement of coding standards.
-- Troubleshooted and resolved technical issues in a timely manner.
+### Full Stack Developer | BCDapps (Jul 2019 - Aug 2021)
+- Implemented new features and resolved issues for a real-estate web application (EverReal).
+- Utilized React, NestJS/Node.js, TypeScript, PostgreSQL, and AWS Services in development efforts.
 
 ## Education
 
-#
+**National University of Sciences and Technology (NUST)**  
+Bachelor of Science - BS, Computer Software Engineering  
+2015 - 2019
+
+## Skills
+
+Node.js • MongoDB • TypeScript • NestJS • React.js • JavaScript • MySQL • PostgreSQL • Amazon SQS • RabbitMQ
