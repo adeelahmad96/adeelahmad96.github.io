@@ -1,8 +1,8 @@
 # Adeel Ahmed
 
 Islamabad, Pakistan  
-adeeldev1@gmail.com  
-+923165371301  
+[adeeldev1@gmail.com](mailto:adeeldev1@gmail.com)  
+[+923165371301](tel:+923165371301)  
 [LinkedIn](https://www.linkedin.com/in/adeel-ahmed-6a3096180)
 
 ---
