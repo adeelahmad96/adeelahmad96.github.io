@@ -13,9 +13,10 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #fafafa; /* Light gray background */
+            background-color: #f6f6f6; /* Light gray background */
             color: #333;
             line-height: 1.6;
+            padding: 10px; /* Add some padding for better readability */
         }
 
         header {
@@ -23,6 +24,9 @@
             color: #fff;
             padding: 20px;
             text-align: center;
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
 
         h1, h2, h3 {
@@ -47,6 +51,7 @@
             border-radius: 5px;
             background-color: #5d4037; /* Darker brown */
             transition: background-color 0.3s ease;
+            display: inline-block;
         }
 
         nav a:hover {
@@ -90,6 +95,27 @@
             color: #fff;
             padding: 20px;
             text-align: center;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            margin-top: 20px;
+            box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Responsive Styling */
+        @media only screen and (max-width: 600px) {
+            header {
+                padding: 15px; /* Reduce header padding for smaller screens */
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+
+            h2 {
+                font-size: 1.8rem; /* Adjust heading size for smaller screens */
+            }
+
+            article h3 {
+                font-size: 1.4rem; /* Adjust subheading size for smaller screens */
+            }
         }
     </style>
 </head>
